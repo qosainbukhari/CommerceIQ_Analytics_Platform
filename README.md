@@ -175,13 +175,13 @@ sellers
 # Project Structure
 
 ```text
-commerceiq-analytics-platform/
+CommerceIQ_Analytics_Platform/
 │
 ├── backend/
 │   ├── app/
 │   ├── queries/
 │   ├── requirements.txt
-│   └── data_loader.py
+│   └── dataloading.py
 │
 ├── frontend/
 │   ├── public/
